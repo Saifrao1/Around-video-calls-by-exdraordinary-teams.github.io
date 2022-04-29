@@ -1,0 +1,27 @@
+<svg width="315" height="49" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 315 49" fill="none">
+<defs>
+    <linearGradient id="lnr" x1="-32" y1="6" x2="380" y2="88" gradientUnits="userSpaceOnUse">
+        <stop offset="20%" stop-color="#14B3F4">
+        </stop>
+        <stop offset="40%" stop-color="#6549D5">
+        </stop>
+        <stop offset="60%" stop-color="#E33FA1">
+        </stop>
+        <stop offset="80%" stop-color="#FB5343">
+        </stop>
+        <stop offset="100%" stop-color="#FD7B42">
+        </stop>
+    </linearGradient>
+</defs>
+
+
+<path fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" d="M200.8,1.8h-42.5c-0.8,0-1.5,0.7-1.5,1.5c0,0,0,0,0,0v23c0,12.5,10.1,22.7,22.7,22.7c12.5,0,22.7-10.1,22.7-22.7c0,0,0,0,0,0v-23c0-0.4-0.2-0.7-0.4-1C201.6,2,201.2,1.8,200.8,1.8"/>
+<path fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" d="M283.7,1.8h-21.2c-0.8,0-1.5,0.6-1.5,1.4c0,0,0,0,0,0v42.5c0,0.8,0.6,1.5,1.4,1.5c0,0,0,0,0,0h21.2c12.5,0,22.7-10.2,22.7-22.7S296.3,1.8,283.7,1.8"/>
+<path fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" d="M127.4,0c-13.5,0-24.5,10.9-24.5,24.5c0,13.5,10.9,24.5,24.5,24.5s24.5-10.9,24.5-24.5c0,0,0,0,0,0C151.9,11,141,0,127.4,0L127.4,0"/>
+<path fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" d="M22.7,1.8C10.2,1.8,0,12,0,24.5s10.2,22.7,22.7,22.7H44c0.8,0,1.5-0.7,1.5-1.5V24.5C45.4,12,35.3,1.8,22.7,1.8C22.7,1.8,22.7,1.8,22.7,1.8"/>
+<path fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" d="M231.3,0c-12.5,0-22.7,10.2-22.7,22.7v0v23c0,0.4,0.2,0.7,0.4,1c0.3,0.3,0.6,0.4,1,0.4h42.5c0.8,0,1.5-0.6,1.5-1.4c0,0,0,0,0,0v-23C254,10.2,243.8,0,231.3,0"/>
+<path fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" d="M96.4,1.8H75.2C62.6,1.8,52.5,12,52.5,24.5v21.3c0,0.8,0.6,1.5,1.4,1.5c0,0,0,0,0,0h21.3c0.8,0,1.5-0.6,1.5-1.4c0,0,0,0,0,0V26h19.8c0.8,0,1.4-0.7,1.4-1.5V3.2C97.9,2.4,97.2,1.8,96.4,1.8"/>
+<polygon fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" points="302.8,2.7 304.2,2.7 304.2,6.8 305.5,6.8 305.5,2.7 306.9,2.7 306.9,1.7 302.8,1.7 "/>
+<polygon fill="url(#lnr)" fill-rule="evenodd" clip-rule="evenodd" points="311.5,1.7 310.2,5 310.2,5 308.9,1.7 307.4,1.7 307.4,6.8 308.6,6.8 308.6,3.6 308.6,3.6 309.8,6.7 310.6,6.7 311.8,3.6 311.9,3.6 311.9,6.8 313,6.8 313,1.7 "/>
+
+</svg>

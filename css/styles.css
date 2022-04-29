@@ -1,0 +1,1577 @@
+body {
+  background-color: rgb(25, 25, 25);
+  font: normal 14px/1.38 'SF Pro Display Regular';
+  color: rgb(0, 0, 0);
+}
+
+.for-window-1 p,
+.text-2 p,
+span p {
+  margin-bottom: 1em;
+}
+
+.about {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 23px;
+  min-height: 23px;
+  margin-top: 1px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 13px;
+  color: rgb(204, 204, 204);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.amazing-companies {
+  position: absolute;
+  top: 1198px;
+  left: 0;
+  z-index: 79;
+  width: 100%;
+  height: 245px;
+  padding-top: 82px;
+  padding-bottom: 60px;
+}
+
+.andriod_apps {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/Android%20OS.svg');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.apple,
+.apple_apps {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/Apple%20Logo.svg');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.apps {
+  display: block;
+  width: 93px;
+  height: 74px;
+  opacity: 0.3;
+}
+
+.apps:hover,
+.browser:hover,
+.os:hover {
+  opacity: 1;
+  -webkit-transition: .2s;
+  -moz-transition: .2s;
+  -o-transition: .2s;
+  -ms-transition: .2s;
+  transition: .2s;
+}
+
+.apps .text {
+  min-height: 15px;
+  margin: 59px auto 0;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(204, 204, 204);
+}
+
+.apps_name {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  right: 0;
+  z-index: 89;
+  min-height: 15px;
+  margin: 0 auto;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(204, 204, 204);
+}
+
+.browser {
+  display: block;
+  width: 224px;
+  height: 74px;
+  opacity: 0.3;
+}
+
+.browser_name,
+.os_names {
+  min-height: 15px;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(204, 204, 204);
+}
+
+.center-01 {
+  float: left;
+  width: 406px;
+  height: 400px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-54-00.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.center-02 {
+  float: left;
+  clear: both;
+  width: 406px;
+  height: 400px;
+  margin-top: 16px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-55-08.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.center-03 {
+  float: left;
+  clear: both;
+  width: 406px;
+  height: 200px;
+  margin-top: 16px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-55-37.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.center_center {
+  float: left;
+  width: 406px;
+  height: 1035px;
+  margin-left: 1.1006%;
+}
+
+.center_left {
+  position: relative;
+  float: left;
+  z-index: 74;
+  width: 406px;
+  height: 795px;
+  margin-top: 240px;
+}
+
+.center_right {
+  float: left;
+  width: 406px;
+  height: 1033px;
+  margin-left: 0.95618%;
+}
+
+.center_ties {
+  position: relative;
+  float: left;
+  width: 103.7190082644%;
+  height: 1035px;
+  margin-top: 9px;
+}
+
+.chrome {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/Chrome.svg');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.comp {
+  float: left;
+  width: 100%;
+  height: 25px;
+  min-height: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgba(255, 255, 255, 0.25);
+}
+
+.companies {
+  position: absolute;
+  top: 82px;
+  left: 0;
+  right: 0;
+  z-index: 78;
+  width: 98%;
+  height: 104px;
+  margin: 0 auto;
+  background-image: url('../images/2022-02-19_13-36-09.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+}
+
+.company {
+  float: left;
+  width: 110px;
+  height: 152px;
+  margin-left: 70px;
+}
+
+.container .andriod_apps {
+  position: relative;
+  float: left;
+  z-index: 4;
+  margin-left: 25px;
+}
+
+.container .apple {
+  position: relative;
+  float: left;
+  z-index: 18;
+}
+
+.container .apple_apps {
+  position: relative;
+  float: left;
+  z-index: 5;
+}
+
+.container .apps {
+  position: relative;
+  float: left;
+  margin: 1px 0 0 3.76074%;
+}
+
+.container .browser {
+  position: relative;
+  float: left;
+  margin-left: 3.76074%;
+}
+
+.container .browser_name,
+.container .os_names {
+  margin: 59px auto 0;
+}
+
+.container .chrome {
+  position: relative;
+  float: left;
+  z-index: 12;
+}
+
+.container .edge {
+  position: relative;
+  float: left;
+  z-index: 10;
+  margin-left: 29px;
+}
+
+.container .image {
+  float: left;
+  width: 143px;
+  opacity: 0.35;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.container .linux {
+  position: relative;
+  float: left;
+  z-index: 16;
+  margin-left: 24px;
+}
+
+.container .mozila {
+  position: relative;
+  float: left;
+  z-index: 9;
+  margin-left: 29px;
+}
+
+.container .os {
+  position: relative;
+  float: left;
+  margin-top: 1px;
+}
+
+.container .left-line,
+.container .right-line {
+  float: left;
+  margin-left: 20px;
+}
+
+.container .safari {
+  position: relative;
+  float: left;
+  z-index: 11;
+  margin-left: 30px;
+}
+
+.container .window {
+  position: relative;
+  float: left;
+  z-index: 17;
+  margin-left: 25px;
+}
+
+.demo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 82;
+  width: 198px;
+  min-height: 26px;
+  font: 900 33px/0.78 Roboto;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.demo:hover {
+  color: rgb(255, 255, 255);
+}
+
+.deonload {
+  display: block;
+  float: left;
+  width: 155px;
+  margin-top: 2px;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 16px;
+  letter-spacing: 6px;
+  color: rgb(255, 255, 255);
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.deonload:hover {
+  color: rgba(255, 255, 255, 0.7);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.desktop-app {
+  position: absolute;
+  top: 4422px;
+  left: 0;
+  z-index: 47;
+  width: 100%;
+  height: 810px;
+  background-color: rgb(255, 255, 255);
+}
+
+.desktop-app .container {
+  position: absolute;
+  top: 262px;
+  left: 0;
+  z-index: 46;
+  width: 100%;
+  height: 549px;
+}
+
+.desktop-app .element {
+  position: absolute;
+  background-size: cover;
+}
+
+.desktop-app .text {
+  margin: 13px auto 0;
+  font-size: 23px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.devices {
+  position: absolute;
+  top: 2651px;
+  left: 0;
+  z-index: 62;
+  width: 100%;
+  height: 1057px;
+  padding-top: 175px;
+  background-color: rgb(255, 255, 255);
+}
+
+.devices-uttons {
+  width: 495px;
+  height: 36px;
+  margin: 69px auto 0;
+}
+
+.download_for-window {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 107;
+  margin: 0 auto;
+  font: 22px/1.18 'SF Pro Display Semibold';
+  text-align: center;
+  letter-spacing: 1px;
+  color: rgb(255, 255, 255);
+  overflow: visible;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.download_for-window:hover,
+.try-for-google:hover {
+  line-height: 1.35;
+  -webkit-transform: translateY(-50px);
+  -moz-transform: translateY(-50px);
+  -o-transform: translateY(-50px);
+  -ms-transform: translateY(-50px);
+  transform: translateY(-50px);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.downloads {
+  display: block;
+  float: left;
+  width: 240px;
+  height: 70px;
+  margin-left: 15px;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  border-radius: 10px;
+  background: none rgb(51, 51, 51);
+  font-family: 'SF Pro Display Semibold';
+  font-size: 22px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.downloads:hover {
+  background-image: -webkit-linear-gradient(250deg, rgba(255, 255, 255, 0.31) 0%, rgb(51, 51, 51) 100%);
+  background-image:    -moz-linear-gradient(250deg, rgba(255, 255, 255, 0.31) 0%, rgb(51, 51, 51) 100%);
+  background-image:      -o-linear-gradient(250deg, rgba(255, 255, 255, 0.31) 0%, rgb(51, 51, 51) 100%);
+  background-image:     -ms-linear-gradient(250deg, rgba(255, 255, 255, 0.31) 0%, rgb(51, 51, 51) 100%);
+  background-image:         linear-gradient(200deg, rgba(255, 255, 255, 0.31) 0%, rgb(51, 51, 51) 100%);
+  background-repeat: no-repeat;
+  box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.51);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.edge {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/edge.png');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.element {
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.footer {
+  position: absolute;
+  top: 5226px;
+  left: 0;
+  z-index: 41;
+  width: 100%;
+  padding-top: 175px;
+  padding-bottom: 60px;
+  background-color: rgb(25, 25, 25);
+}
+
+.footer_bottom {
+  float: left;
+  clear: both;
+  width: 1300px;
+  height: 265px;
+  margin-top: 107px;
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+
+.footer_bottom .container {
+  float: left;
+}
+
+.footer_bottom .text {
+  float: left;
+  clear: both;
+  width: 248px;
+  min-height: 52px;
+  margin-top: 15px;
+  font-size: 12px;
+  color: #666666;
+}
+
+.for-window {
+  position: absolute;
+  top: 19px;
+  height: 30px;
+  overflow: hidden;
+}
+
+.google {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 113;
+  width: 304px;
+  height: 68px;
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.google:hover {
+  background-color: rgb(178, 178, 178);
+}
+
+.google .for-window {
+  left: 75px;
+  z-index: 111;
+  width: 170px;
+}
+
+.google-logo {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  z-index: 112;
+  width: 40px;
+  height: 40px;
+  background-image: url('../images/Google.svg');
+  background-repeat: no-repeat;
+  background-size: 40px auto;
+  background-position: center center;
+}
+
+.hero-images {
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 602px;
+  margin-top: 66px;
+  background-image: url('../images/2022-02-19_15-29-40.png');
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center center;
+  -webkit-transform: scale(1,1);
+  -moz-transform: scale(1,1);
+  -o-transform: scale(1,1);
+  -ms-transform: scale(1,1);
+  transform: scale(1,1);
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  -ms-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.hotal {
+  display: block;
+  float: left;
+  width: 165px;
+  height: 35px;
+  border: 1px solid rgb(21, 21, 21);
+  background-color: rgb(25, 25, 25);
+  font-family: 'SF Pro Display Semibold';
+  font-size: 14px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.houses {
+  display: block;
+  float: left;
+  width: 165px;
+  height: 35px;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'SF Pro Display Semibold';
+  font-size: 14px;
+  text-align: center;
+  color: rgb(25, 25, 25);
+}
+
+.image {
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.in-browser {
+  position: absolute;
+  bottom: 3px;
+  left: 2px;
+  z-index: 123;
+  width: 225px;
+  min-height: 22px;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 16px;
+  letter-spacing: 6px;
+  color: rgb(255, 255, 255);
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.in-browser:hover {
+  color: rgba(255, 255, 255, 0.8);
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.intro {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 119;
+  width: 100%;
+  height: 642px;
+  padding: 105px 45px 60px;
+}
+
+.intro_btn {
+  position: absolute;
+  top: 307px;
+  left: 182px;
+  z-index: 114;
+  width: 626px;
+  height: 68px;
+}
+
+.intro_btn .window {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 319px;
+  z-index: 109;
+  width: 306px;
+  height: 68px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.intro_components {
+  position: absolute;
+  top: 105px;
+  left: 0;
+  right: 0;
+  z-index: 118;
+  width: 990px;
+  margin: 0 auto;
+}
+
+.intro_desctopin {
+  position: absolute;
+  top: 230px;
+  left: 165px;
+  z-index: 115;
+  width: 660px;
+  min-height: 45px;
+  font-size: 15px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.25);
+}
+
+.intro_platdorm {
+  position: absolute;
+  top: 411px;
+  left: 223px;
+  z-index: 106;
+  width: 553px;
+  height: 74px;
+}
+
+.intro_platdorm .andriod_apps {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  z-index: 90;
+}
+
+.intro_platdorm .apple {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 104;
+}
+
+.intro_platdorm .apple_apps {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 91;
+}
+
+.intro_platdorm .apps {
+  position: absolute;
+  top: 1px;
+  left: 459px;
+  z-index: 92;
+}
+
+.intro_platdorm .browser {
+  position: absolute;
+  top: 0;
+  left: 192px;
+  z-index: 99;
+}
+
+.intro_platdorm .browser_name {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  right: 0;
+  z-index: 94;
+  margin: 0 auto;
+}
+
+.intro_platdorm .chrome {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 98;
+}
+
+.intro_platdorm .edge {
+  position: absolute;
+  top: 0;
+  left: 127px;
+  z-index: 96;
+}
+
+.intro_platdorm .left-line {
+  position: absolute;
+  top: 0;
+  left: 171px;
+  z-index: 100;
+}
+
+.intro_platdorm .linux {
+  position: absolute;
+  top: 0;
+  left: 117px;
+  z-index: 102;
+}
+
+.intro_platdorm .mozila {
+  position: absolute;
+  top: 0;
+  left: 190px;
+  z-index: 95;
+}
+
+.intro_platdorm .os {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  z-index: 105;
+}
+
+.intro_platdorm .os_names {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  right: 0;
+  z-index: 101;
+  margin: 0 auto;
+}
+
+.intro_platdorm .right-line {
+  position: absolute;
+  top: 0;
+  left: 437px;
+  z-index: 93;
+}
+
+.intro_platdorm .safari {
+  position: absolute;
+  top: 0;
+  left: 64px;
+  z-index: 97;
+}
+
+.intro_platdorm .window {
+  position: absolute;
+  top: 0;
+  left: 59px;
+  z-index: 103;
+}
+
+.left-01 {
+  float: left;
+  width: 406px;
+  height: 200px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-54-23.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.left-02 {
+  float: left;
+  clear: both;
+  width: 406px;
+  height: 260px;
+  margin-top: 16px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-54-58.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.left-03 {
+  float: left;
+  clear: both;
+  width: 406px;
+  height: 300px;
+  margin-top: 16px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-55-27.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.line {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 122;
+  width: 214px;
+  height: 3px;
+  border-radius: 10px;
+  background: rgb(101, 73, 213);
+  background: -webkit-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background:    -moz-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background:      -o-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background:     -ms-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background:         linear-gradient(416deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  color: rgb(255, 255, 255);
+}
+
+.linux {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/Linux.svg');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.logo {
+  float: left;
+  width: 198px;
+  height: 47px;
+  margin-top: 13px;
+  background-image: url('../images/around%20lofo.svg');
+  background-repeat: no-repeat;
+  background-size: 155px auto;
+  background-position: center center;
+}
+
+.loin {
+  display: block;
+  float: left;
+  width: 101px;
+  min-height: 16px;
+  margin: 2px 0 0 33px;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 16px;
+  letter-spacing: 6px;
+  color: rgb(255, 255, 255);
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.loin:hover {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.main {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 120;
+  width: 100%;
+  height: 1198px;
+  background-color: rgb(25, 25, 25);
+}
+
+.main_heading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 117;
+  width: 100%;
+}
+
+.movie_container {
+  position: absolute;
+  top: 642px;
+  left: 0;
+  z-index: 88;
+  width: 100%;
+  height: 556px;
+  padding-right: 45px;
+  padding-left: 45px;
+}
+
+.movie_title {
+  position: absolute;
+  top: 33px;
+  left: 97px;
+  z-index: 83;
+  width: 198px;
+  height: 61px;
+}
+
+.movies_intro {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 87;
+  width: 990px;
+  margin: 0 auto;
+}
+
+.mozila {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/mozila.png');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.nav_menu {
+  position: relative;
+  float: left;
+  width: 544px;
+  height: 25px;
+  margin: 24px 0 0 39.92308%;
+}
+
+.os {
+  display: block;
+  width: 151px;
+  height: 74px;
+  opacity: 0.3;
+}
+
+.os .window {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/Windows8.svg');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.play_logo {
+  position: absolute;
+  top: 33px;
+  left: 37px;
+  z-index: 85;
+  width: 40px;
+  height: 52px;
+}
+
+.play_logo .image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 84;
+  width: 100%;
+}
+
+.pro {
+  float: left;
+  width: 100%;
+  height: 25px;
+  min-height: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.25);
+}
+
+.products {
+  float: left;
+  width: 116px;
+  height: 152px;
+  margin-left: 70px;
+}
+
+.right-01 {
+  float: left;
+  width: 406px;
+  height: 430px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-54-49.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.right-02 {
+  float: left;
+  clear: both;
+  width: 406px;
+  height: 200px;
+  margin-top: 16px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-55-17.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.right-03 {
+  float: left;
+  clear: both;
+  width: 406px;
+  height: 370px;
+  margin-top: 16px;
+  border-radius: 15px;
+  background: url('../images/2022-02-19_13-55-48.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: center top;
+}
+
+.left-line,
+.right-line {
+  width: 1px;
+  height: 36px;
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.safari {
+  width: 34px;
+  height: 41px;
+  background-image: url('../images/safari.png');
+  background-repeat: no-repeat;
+  background-size: 34px auto;
+  background-position: center center;
+}
+
+.scrollcontainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 121;
+  width: 100%;
+  height: 6360px;
+  overflow: hidden;
+}
+
+.section_devices_headings {
+  width: 610px;
+  min-height: 96px;
+  margin: 0 auto;
+  font: 45px/1.2 'SF Pro Display Semibold';
+  text-align: center;
+  letter-spacing: -1px;
+  color: rgb(0, 0, 0);
+}
+
+.section_sub_heading {
+  float: left;
+  clear: both;
+  min-height: 33px;
+  margin: 15px 0 0 481px;
+  font-size: 22px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.sign-in {
+  display: block;
+  position: relative;
+  float: right;
+  width: 227px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+.social-validation {
+  position: absolute;
+  top: 1443px;
+  left: 0;
+  z-index: 77;
+  width: 100%;
+  height: 1208px;
+  padding: 90px 45px 60px;
+  background-color: rgb(25, 25, 25);
+  overflow: hidden;
+}
+
+.time {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  z-index: 81;
+  width: 198px;
+  max-width: 198px;
+  min-height: 26px;
+  font: 700 22px/1.18 Roboto;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 129;
+  width: 100%;
+  height: 70px;
+  background-color: rgba(25, 25, 25, 0.7);
+}
+
+.try-for-google {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 110;
+  margin: 0 auto;
+  font: 22px/1.18 'SF Pro Display Semibold';
+  text-align: center;
+  letter-spacing: 1px;
+  color: rgb(25, 25, 25);
+  overflow: visible;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.blog,
+.careers,
+.changlog,
+.download,
+.faq,
+.pricing,
+.security,
+.support,
+.twitter {
+  display: block;
+  float: left;
+  clear: both;
+  width: 100%;
+  height: 23px;
+  min-height: 23px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 13px;
+  color: rgb(204, 204, 204);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.about:hover,
+.blog:hover,
+.careers:hover,
+.changlog:hover,
+.download:hover,
+.faq:hover,
+.pricing:hover,
+.security:hover,
+.support:hover,
+.twitter:hover {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.video {
+  position: absolute;
+  top: 364px;
+  left: 57px;
+  z-index: 86;
+  width: 358px;
+  height: 130px;
+  padding: 33px 60px 33px 37px;
+  border-radius: 10px;
+  background-color: rgba(25, 25, 25, 0.6);
+}
+
+.wat-people-say {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  z-index: 75;
+  width: 306px;
+  min-height: 152px;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 45px;
+  letter-spacing: 1px;
+  color: rgb(255, 255, 255);
+}
+
+.window .for-window {
+  left: 0;
+  right: 0;
+  z-index: 108;
+  width: 152px;
+  margin: 0 auto;
+}
+
+.workspace {
+  display: block;
+  float: left;
+  width: 165px;
+  height: 35px;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-left: 1px solid rgb(0, 0, 0);
+  border-radius: 10px 1px 1px 10px;
+  background-color: rgb(255, 255, 255);
+  font-family: 'SF Pro Display Semibold';
+  font-size: 14px;
+  text-align: center;
+  color: rgb(25, 25, 25);
+}
+
+.wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 80;
+  width: 990px;
+  height: 556px;
+  margin: 0 auto;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+._button {
+  display: block;
+  float: left;
+  font-family: 'SF Pro Display Semibold';
+  text-align: center;
+}
+
+._headinds {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 116;
+  width: 100%;
+  background-image: -webkit-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.3) 100%);
+  background-image:    -moz-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.3) 100%);
+  background-image:      -o-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.3) 100%);
+  background-image:     -ms-linear-gradient(0deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.3) 100%);
+  background-image:         linear-gradient(450deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0.3) 100%);
+  background-repeat: no-repeat;
+  font: 90px/1.15 'SF Pro Display Semibold';
+  text-align: center;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.footer ._button {
+  width: 240px;
+  height: 70px;
+  border-radius: 10px;
+  background: rgb(101, 73, 213);
+  background: none, -webkit-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background: none,    -moz-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background: none,      -o-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background: none,     -ms-linear-gradient(34deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background: none,         linear-gradient(416deg, rgba(5, 157, 255, 0) 0%, rgb(101, 73, 213) 0%, rgb(227, 63, 161) 41.904761904761905%, rgb(246, 79, 86) 61.904761904761905%, rgb(251, 83, 67) 75.23809523809524%, rgb(253, 123, 66) 100%) rgb(222, 222, 222);
+  background-repeat: repeat, no-repeat;
+  background-size: 100% 100%, 100% 100%;
+  background-position: 0% 0%, 0% 0%;
+  background-attachment: scroll, scroll;
+  font-size: 22px;
+  color: rgb(255, 255, 255);
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.footer ._button:hover {
+  background-image: -webkit-linear-gradient(0deg, rgb(5, 157, 255) 0%, rgb(92, 86, 217) 100%), none;
+  background-image:    -moz-linear-gradient(0deg, rgb(5, 157, 255) 0%, rgb(92, 86, 217) 100%), none;
+  background-image:      -o-linear-gradient(0deg, rgb(5, 157, 255) 0%, rgb(92, 86, 217) 100%), none;
+  background-image:     -ms-linear-gradient(0deg, rgb(5, 157, 255) 0%, rgb(92, 86, 217) 100%), none;
+  background-image:         linear-gradient(450deg, rgb(5, 157, 255) 0%, rgb(92, 86, 217) 100%), none;
+  background-repeat: no-repeat, no-repeat;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.container-1 {
+  position: absolute;
+  top: 3708px;
+  left: 0;
+  z-index: 54;
+  width: 100%;
+  height: 714px;
+  padding-bottom: 60px;
+  background-color: rgb(255, 255, 255);
+}
+
+.container-2 {
+  width: 1019px;
+  height: 451px;
+  margin: 132px auto 0;
+}
+
+.container-4 {
+  float: left;
+  clear: both;
+  width: 86%;
+  height: 74px;
+  margin: 75px 0 0 10%;
+}
+
+.container-5 {
+  float: left;
+  width: 553px;
+  height: 74px;
+  margin-left: 60px;
+}
+
+.container-6 {
+  width: 696px;
+  height: 157px;
+  margin: 39px 0 0 10%;
+}
+
+.container-7 {
+  width: 330px;
+  height: 90px;
+}
+
+.element-1 {
+  float: left;
+  width: 538px;
+  height: 451px;
+  border-radius: 10px;
+  background-image: url('../images/2022-02-19_16-35-15.png');
+  background-size: auto auto;
+  background-color: rgb(0, 0, 0);
+  box-shadow: 0 2px 80px rgba(0, 0, 0, .5);
+}
+
+.element-2 {
+  top: 0;
+  left: 286px;
+  z-index: 45;
+  width: 782px;
+  height: 410px;
+  border-radius: 10px;
+  background-image: url('../images/2022-02-19_16-41-11.png');
+  box-shadow: 0 2px 50px rgba(0, 0, 0, .5);
+}
+
+.element-3 {
+  top: 89px;
+  left: 0;
+  right: 0;
+  z-index: 44;
+  width: 100%;
+  height: 460px;
+  margin: 0 auto;
+  background-image: url('../images/teamwork-end-desktop.webp');
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  z-index: 48;
+  width: 371px;
+  min-height: 9px;
+  margin: 42px 0 0 101px;
+  font: 35px/1.20 'SF Pro Display Semibold';
+  letter-spacing: -1px;
+  color: rgb(0, 0, 0);
+}
+
+.text-2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 49;
+  width: 371px;
+  min-height: 148px;
+  margin: -246px 0 0 639px;
+  font-size: 14px;
+  line-height: 1.48;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  float: left;
+  width: 1014px;
+  min-height: 226px;
+  margin: 161px 0 0 10%;
+  padding-right: 1px;
+  padding-left: 1px;
+  font: 120px/0.88 'SF Pro Display Semibold';
+  letter-spacing: -1px;
+  color: rgb(229, 229, 229);
+}
+
+.container ._button-1 {
+  position: relative;
+  z-index: 51;
+  width: 200px;
+  height: 34px;
+  margin: -47px 0 0 639px;
+  border: 1px solid rgb(21, 21, 21);
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: rgb(25, 25, 25);
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+}
+
+.container ._button-2 {
+  position: relative;
+  z-index: 52;
+  width: 180px;
+  height: 34px;
+  margin: -47px 0 0 839px;
+  border-top: 1px solid rgb(0, 0, 0);
+  border-right: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(0, 0, 0);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  font-size: 14px;
+  color: rgb(25, 25, 25);
+}
+
+.desktop-app ._text-3 {
+  margin: 58px auto 0;
+  font-family: 'SF Pro Display Semibold';
+  font-size: 45px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._headinds span,
+.download_for-window span,
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text a:hover {
+  text-decoration: underline;
+}
+
+.try-for-google span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 14px;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}

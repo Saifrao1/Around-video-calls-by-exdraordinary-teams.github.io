@@ -1,0 +1,28 @@
+
+h1{
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.video{
+backdrop-filter: blur(10px);
+  
+}
+.top{
+backdrop-filter: blur(15px);
+
+}
+.hero1 {
+  background-image: url(../Ex_images/workspace.png);
+}
+.hero2 {
+  background-image: url(../Ex_images/houses.png);
+}
+.bk {
+  background-color: transparent;
+  color: rgb(25, 25, 25);
+}
+.add-color {
+  background-color: rgb(25, 25, 25);
+  color: white;
+  transition: all 0.3s;
+}
